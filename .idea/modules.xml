@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/applet.iml" filepath="$PROJECT_DIR$/applet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applet-user/applet-user.iml" filepath="$PROJECT_DIR$/applet-user/applet-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-one/eureka-one.iml" filepath="$PROJECT_DIR$/eureka-one/eureka-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-three/eureka-three.iml" filepath="$PROJECT_DIR$/eureka-three/eureka-three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-two/eureka-two.iml" filepath="$PROJECT_DIR$/eureka-two/eureka-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-zuul-demo/gateway-zuul-demo.iml" filepath="$PROJECT_DIR$/gateway-zuul-demo/gateway-zuul-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-log/springcloud-log.iml" filepath="$PROJECT_DIR$/springcloud-log/springcloud-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-shopping/springcloud-shopping.iml" filepath="$PROJECT_DIR$/springcloud-shopping/springcloud-shopping.iml" />
+    </modules>
+  </component>
+</project>

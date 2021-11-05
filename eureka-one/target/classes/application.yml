@@ -1,0 +1,12 @@
+server:
+  port: 1111
+  
+eureka:
+  instance:
+    hostname: eureka-one
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:1111/eureka

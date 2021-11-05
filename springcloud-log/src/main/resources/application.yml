@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: spring-cloud-log
+    
+server:
+  port: 8022
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-one:1111/eureka

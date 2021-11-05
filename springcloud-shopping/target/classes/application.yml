@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: spring-cloud-shopping
+    
+server:
+  port: 8099
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-one:1111/eureka
+feign:
+  hystrix:
+    enabled: true

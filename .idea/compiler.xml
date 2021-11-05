@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-shopping" />
+        <module name="gateway-zuul-demo" />
+        <module name="eureka-three" />
+        <module name="eureka-two" />
+        <module name="springcloud-log" />
+        <module name="eureka-one" />
+        <module name="applet-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="applet" target="1.8" />
+      <module name="applet-user" target="1.8" />
+      <module name="eureka-one" target="1.8" />
+      <module name="eureka-three" target="1.8" />
+      <module name="eureka-two" target="1.8" />
+      <module name="gateway-zuul-demo" target="1.8" />
+      <module name="springcloud-log" target="1.8" />
+      <module name="springcloud-shopping" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

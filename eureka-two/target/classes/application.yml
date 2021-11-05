@@ -1,0 +1,11 @@
+server:
+  port: 2222
+  
+eureka:
+  instance:
+    hostname: eureka-two
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka-one:1111/eureka,http://eureka-two:2222/eureka,http://eureka-three:3333/eureka
